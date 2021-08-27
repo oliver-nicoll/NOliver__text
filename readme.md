@@ -6,3 +6,4 @@ Using the scripting language of your choice, write a script that does the follow
     2. Add “Hello World” to a new line at the beginning of the file
     3. Add “Goodbye” to a new line at the end of the file
 
+Scripting language: Ruby
