@@ -7,3 +7,8 @@ Using the scripting language of your choice, write a script that does the follow
     3. Add “Goodbye” to a new line at the end of the file
 
 Scripting language: Ruby
+
+## To Run 
+
+In the terminal run:
+    $ ruby test.rb
