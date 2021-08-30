@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 #Testing out ways - Ruby
 
 # File.open('test.txt', 'a') { |f| f.write("Hello world\nGoodbye") }
