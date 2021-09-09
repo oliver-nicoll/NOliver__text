@@ -7,9 +7,10 @@
     #2 Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g. “MyString” rotated by 2 is “ngMyStri”.
 
     #3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be? 
-        One thing I would change from React/Redux Toolkit would be how the store becomes the haystack and the bug you are locating becomes the needle when in a very large scale app. I wrote a blog post about it - see link below!
+        Brief Explanation: One thing I would change from React/Redux Toolkit, my favorite platform, would be how the store becomes the haystack
+        and the bug/ problem you are trying locating becomes the needle when in a very large scale app. I wrote a blog post as my response, please check it out -           see link below!
 
-    https://20nicoll-oliver17.medium.com/redux-toolkit-pro-con-1b13f2d4e834
+        https://20nicoll-oliver17.medium.com/redux-toolkit-pro-con-1b13f2d4e834
 
 ## To Run 
 
