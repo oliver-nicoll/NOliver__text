@@ -1,13 +1,25 @@
+/*
+Promblem 1: Print the number of integers in an array that are above
+the given input and the number that are below, 
+e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”.
+*/
 
+function arrayAboveBelow(arr, n){
+    let below = []
+    let above = []
 
+    arr.forEach(num => {
+        if (num < n){
+            below.push(num)
+        }
+        if (num > n){
+            above.push(num)
+        }
+    });
+    console.log("Below:", below.length, "Above:", above.length)
+}
 
-
-
-
-
-
-
-
+arrayAboveBelow([1, 5, 2, 1, 10], 6)
 
 
 /* 
