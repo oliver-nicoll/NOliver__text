@@ -8,7 +8,8 @@
 
     #3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be? 
         Brief Explanation: One thing I would change from React/Redux Toolkit, my favorite platform, would be how the store becomes the haystack
-        and the bug/ problem you are trying locating becomes the needle when in a very large scale app. I wrote a blog post as my response, please check it out -           see link below!
+        and the bug/ problem you are trying locating becomes the needle when in a very large scale app. I wrote a blog post as my response, please check it out!
+        See link below:
 
         https://20nicoll-oliver17.medium.com/redux-toolkit-pro-con-1b13f2d4e834
 
